@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0877B748-1566-46F2-8359-AE14B1611C17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RatingTraining/Models/Player.cs">
+    <Files>
+      <File FileName="iOS/Main.storyboard" />
+      <File FileName="iOS/Controller/PlayersViewController.cs" Line="1" Column="1" />
+      <File FileName="RatingTraining/Models/Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RatingTraining.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.63E56851-844C-4B3A-A80E-1C98D1F6EDF8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Desktop/Project/PhoneWorld.iOS/PhoneWorld.iOS/PhoneTranslator.cs" line="35" offsetX="401" offsetY="578" expression="newNumber" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
